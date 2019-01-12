@@ -45,6 +45,17 @@ window.onload = function() {
 
 	// add all of the bodies to the world
 	World.add(engine.world, [boxA, boxB, circleA, ground]);
+	
+	let mouseConstraint = Matter.MouseConstraint.create(engine, { //Create Constraint
+		element: document.getElementById('world'),
+		constraint: {
+			render: {
+				visible: false
+			},
+			stiffness:0.8
+		}
+	});
+	World.add(engine.world, mouseConstraint);
 
 	// run the engine
 	Engine.run(engine);

@@ -26,5 +26,7 @@ simple demonstration of different abilities with matter.js. might be useful to b
 
 [force example on codepen](https://codepen.io/Shokeen/pen/WjKmMG)
 
+[beachball physics and dragging with mouse](https://codepen.io/liabru/pen/Ivxib)
+
 [bodies documentation](http://brm.io/matter-js/docs/classes/Bodies.html)
 

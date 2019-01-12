@@ -1,14 +1,14 @@
-# <img src="icon.png" width="64px"> Webpage Template
+# <img src="icon.png" width="64px"> Testing Matter.js
 
 ### About
 
-A simple webpage template
+simple demonstration of different abilities with matter.js. might be useful to beginners
 
 ### Links
 
-- Live demo: https://justingolden21.github.io/webpage-template/
+- Live demo: https://justingolden21.github.io/matter-test/
 
-- This repo: https://github.com/justingolden21/webpage-template
+- This repo: https://github.com/justingolden21/matter-test
 
 <hr>
 
